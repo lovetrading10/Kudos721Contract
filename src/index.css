@@ -1,0 +1,25 @@
+.color-preview { 
+  height: 100px;
+  width: 100px;
+}
+
+.color-blocks { 
+  height: 100px;
+  width: 100px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+}
+
+.have-some-margin { 
+  margin-top: 100px;
+}
+
+.loader {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url('images/ether-diamond.gif') 50% 50% no-repeat rgb(249,249,249);
+}
